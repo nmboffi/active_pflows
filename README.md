@@ -19,7 +19,7 @@ Experiment tracking is implemented in [Weights and Biases](https://wandb.ai/home
 
 
 # Referencing
-If you found this repository useful, please consider citing
+If you found this repository useful, please cite:
 
 [1] N. M. Boffi and Eric Vanden-Eijnden. “Deep learning probability flows and entropy production rates in active matter", arXiv: 2309.12991.
 
