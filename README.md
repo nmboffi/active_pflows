@@ -13,7 +13,9 @@ Code for generating datasets can be found in ``py/dataset_gen``.
 
 Code for visualizing the output of simulations and for producing the publication figures can be found in ``notebooks``.
 
-Slurm ``.sbatch`` scripts used to launch the experiments in the paper can be found under ``slurm_scripts``.
+Slurm ``sbatch`` scripts used to launch the experiments in the paper can be found under ``slurm_scripts``.
+
+Experiment tracking is implemented in [Weights and Biases](https://wandb.ai/home). You will need to input a project 
 
 
 # Referencing
