@@ -905,7 +905,7 @@ if __name__ == "__main__":
 
     ## set up weights and biases tracking
     wandb.init(
-        project="lowd_cates",
+        project="",
         name=cfg.wandb_name,
         config=cfg.to_dict(),
     )

@@ -15,7 +15,7 @@ Code for visualizing the output of simulations and for producing the publication
 
 Slurm ``sbatch`` scripts used to launch the experiments in the paper can be found under ``slurm_scripts``.
 
-Experiment tracking is implemented in [Weights and Biases](https://wandb.ai/home). You will need to input a project 
+Experiment tracking is implemented in [Weights and Biases](https://wandb.ai/home). You will need to input a project title in the corresponding simulation launcher in the call to ``wandb.init``.
 
 
 # Referencing
