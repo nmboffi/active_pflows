@@ -1,4 +1,4 @@
-# Learning probability flows and entropy production rates in active matter physics
+# Deep learning probability flows and entropy production rates in active matter
 This repository provides an efficient implementation in ``jax`` of a score matching and physics informed neural network-based algorithm for solving the stationary Fokker-Planck equation in high dimension.
 
 # Installation
